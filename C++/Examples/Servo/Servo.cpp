@@ -13,7 +13,7 @@ make
 ./Servo
 */
 
-#define NAVIO_RCOUTPUT_1 10
+#define NAVIO_RCOUTPUT_1 14
 #define SERVO_MIN 1.250 /*mS*/
 #define SERVO_MAX 1.750 /*mS*/
 
